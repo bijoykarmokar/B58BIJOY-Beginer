@@ -277,3 +277,45 @@
     font-size: 16px;
     color: black;
 }
+
+/* section 4 has started */
+#next-target-parent{
+    font-family:Azeret Mono;
+    width: 950px;
+    margin: 100px auto;
+}
+#next-target-parent .heading1{
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+#next-target-parent .par1{
+    font-size: 16px;
+    margin-bottom: 48px;
+    text-align: center;
+}
+.next-target{
+   
+}
+.target-child{
+    display: flex;
+    gap:20px;
+    border: 1px solid rgb(221, 214, 214);
+    border-radius: 10px;
+    padding: 40px 30px;
+}
+.target-child1{
+    display: flex;
+    gap:20px;
+    border: 1px solid rgb(221, 214, 214);
+    border-radius: 10px;
+    padding: 40px 30px;
+    margin:20px  0;
+}
+.target-child2{
+    display: flex;
+    gap:20px;
+    border: 1px solid rgb(221, 214, 214);
+    border-radius: 10px;
+    padding: 40px 30px;
+}
