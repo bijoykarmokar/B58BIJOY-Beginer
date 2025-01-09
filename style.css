@@ -312,6 +312,9 @@
     padding: 40px 30px;
     margin:20px  0;
 }
+.para11{
+    margin: 15px 0;
+}
 .target-child2{
     display: flex;
     gap:20px;
@@ -358,5 +361,18 @@
     color:black;
     font-weight: bold;
    
+}
+#footer1{
+    width: 950px;
+    margin: 40px auto;
+}
+.last-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icons{
+    display: flex;
+    gap: 25px;
 }
 
