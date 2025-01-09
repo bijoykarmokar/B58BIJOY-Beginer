@@ -319,3 +319,44 @@
     border-radius: 10px;
     padding: 40px 30px;
 }
+
+.border-text{
+    text-align: center;
+    font-family: Azeret Mono;
+    width: 950px;
+    margin: 0 auto;
+    border-radius: 15px;
+    padding: 50px 0;
+    background-image: url("./assets/handshake.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    margin-bottom: 40px;
+}
+.border-text .heading12{
+    font-size: 32px;
+    color: white;
+}
+.border-text .par2{
+    font-size: 16px;
+    margin: 20px 0;
+    color: white;
+}
+.border-text form #text{
+      padding: 15px 100px 15px 15px;
+      width: 300px;
+      font-size: 16px;
+      border-radius: 10px;
+      border: none;
+}
+.border-text form .sub{
+    font-size: 16px;
+    padding: 15px 40px;
+    border-radius: 10px;
+    border: none;
+    color:black;
+    font-weight: bold;
+   
+}
+
